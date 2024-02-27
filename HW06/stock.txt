@@ -1,0 +1,16 @@
+sID,pID,branch,current_stock
+1,1,newyork,150
+2,1,izmir,100
+3,2,london,0
+4,4,bursa,175
+5,5,istanbul,0
+6,8,milan,0
+7,6,edirne,175
+8,7,prag,10
+9,8,pekin,75
+10,9,izmir,15
+11,10,istanbul,90
+12,10,istanbul,45
+13,9,izmir,175
+14,7,newyork125
+15,8,djklsd,67

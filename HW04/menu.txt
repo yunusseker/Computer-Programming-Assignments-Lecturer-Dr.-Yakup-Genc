@@ -1,0 +1,11 @@
+Product    Price (TL)
+Kebap       75.99
+Ciğer       80.55 
+Levrek      21.50 
+Pide        40.70
+Büryan      95.90 
+Döner       55.60 
+Kola        15.20 
+Su          10.60 
+Gazoz       15.50
+Limonata    17.50

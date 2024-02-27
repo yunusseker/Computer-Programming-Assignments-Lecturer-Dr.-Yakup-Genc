@@ -1,0 +1,12 @@
+pID,Type,Name,Brand,Price
+1,D,ayran,sutas,8.50
+2,F,simit,saray,23  
+3,F,burger,king,45.00
+4,F,tost,erol,50.23
+5,F,doner,reis,12.56
+6,D,salgam,dogan,28.00
+7,D,cay,caykur,39.50
+8,D,kola,pepsi,46.90
+9,O,baklava,gullu,57.80
+10,O,kunefe,hatay,200.50
+
